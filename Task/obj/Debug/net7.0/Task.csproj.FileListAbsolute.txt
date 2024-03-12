@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\bin\Debug\net7.0\Task.exe
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\bin\Debug\net7.0\Task.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\bin\Debug\net7.0\Task.dll
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\bin\Debug\net7.0\Task.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\obj\Debug\net7.0\Task.dll
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\obj\Debug\net7.0\refint\Task.dll
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\obj\Debug\net7.0\Task.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\1. Разработчик.Основной блок\final test\Task\obj\Debug\net7.0\ref\Task.dll
