@@ -9,4 +9,21 @@
 
 
 Console.Clear();
-Console.Write("Введите количество символов масссива: ");
+string[] originArray = {"1234", "1567", "-2", "computer science"};
+string[] arrayToReplace = new string[originArray.Length];
+int count = 0;
+for (int i = 0; i < originArray.Length; i++)
+{
+    if (originArray[i].Length <= 3)
+    {
+        arrayToReplace[count] = originArray[i];
+        count++;
+    }
+}
+
+Console.Write("Массив строк после замены: ");
+for(int i = 0; i < count; i++)
+{
+    Console.Write(arrayToReplace[i]);
+}
+
