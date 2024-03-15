@@ -26,4 +26,3 @@ for(int i = 0; i < count; i++)
 {
     Console.Write(arrayToReplace[i]);
 }
-
